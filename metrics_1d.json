@@ -1,0 +1,8 @@
+{
+    "const_train_loss": 1.8171396255493164,
+    "polyak_train_loss": 0.4895176887512207,
+    "adam_train_loss": 0.46332231163978577,
+    "const_val_loss": 1.8180571794509888,
+    "polyak_val_loss": 0.4969805181026459,
+    "adam_val_loss": 0.46864500641822815
+}

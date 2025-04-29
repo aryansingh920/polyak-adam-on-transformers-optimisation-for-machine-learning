@@ -1,0 +1,8 @@
+{
+    "const_train_loss": 0.03337593869927029,
+    "polyak_train_loss": 0.01600683489271129,
+    "const_test_accuracy": 0.9899999999999999,
+    "polyak_test_accuracy": 0.995,
+    "const_val_loss": 0.03766014008472363,
+    "polyak_val_loss": 0.01620977442129515
+}
